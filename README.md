@@ -1,2 +1,2 @@
-# calculator_project
-calculator_project
+# calculator-project
+calculator-project
